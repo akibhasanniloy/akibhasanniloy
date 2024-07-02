@@ -9,12 +9,28 @@
 
 
 <div>
-<h1 align="center">Hi 👋, I'm Akib Hasan Niloy</h1>
+<h1 align="left">Hi 👋, I'm Akib Hasan Niloy</h1>
 <br/>
-<h3 align="left">I am a Junior Frontend Developer with a strong foundation in HTML, CSS, JavaScript, and ReactJS. I also have some experience with backend technologies like Node.js, Express.js, and MongoDB. My passion lies in creating responsive and user-friendly web applications, and I am continually seeking opportunities to learn and grow in the field of web development. 
+<h3 align="left">
+  🎨 Junior Frontend Developer passionate about transforming designs into interactive web applications<br>
+  💻 Proficient in HTML, CSS, Tailwind CSS, JavaScript, and ReactJS<br>
+  ⚙️ Experienced in backend development with Node.js, Express.js, and MongoDB<br>
+  👩🏻‍🎓 Studied Computer Science & Engineering at Bangladesh University of Business & Technology, Bangladesh<br>
+  🚀 Driven by a love for learning and innovation, constantly exploring new technologies<br>
   <br>
   <br>
-  Check out my repositories to see my projects and contributions!</h3>
+  Check out my repositories to see my projects and contributions!
+</h3>
+  
+<br>
+  <div align="center">
+    <a href="https://github.com/akibhasanniloy?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akibhasanniloy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+      <a href="https://github.com/akibhasanniloy?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akibhasanniloy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+      </a>
+  </div>
 </div>
 <br/>
 <div align="center">
@@ -38,7 +54,6 @@
     <img src="https://skillicons.dev/icons?i=git,vscode" /><br>
 </div>
 
-
 <br>
 <br>
 <h2 align="left">⚡ Stats ⚡</h2>
@@ -55,8 +70,8 @@
      <a href="https://git.io/streak-stats">
       <img align="left" width=390 src="https://streak-stats.demolab.com?user=akibhasanniloy&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="Akib Hasan Niloy" />
     </a>
-    <a href="https://github.com/akibhasanniloy/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=akibhasanniloy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=akibhasanniloy&show_icons=true&show_privates=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   
