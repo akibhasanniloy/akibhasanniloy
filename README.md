@@ -19,7 +19,7 @@
   🚀 Driven by a love for learning and innovation, constantly exploring new technologies<br>
   <br>
   <br>
-  Check out my repositories to see my projects and contributions!
+  Check out my repositories 🔍 to see my projects and contributions!
 </h3>
   
 <br>
@@ -67,7 +67,7 @@
   <br>
   
    <div align=center>
-     <a href="https://git.io/streak-stats">
+     <a href="https://git.io/streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com?user=akibhasanniloy&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="Akib Hasan Niloy" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
