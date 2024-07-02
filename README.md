@@ -14,7 +14,7 @@
 <h3 align="left">
   🎨 Junior Frontend Developer passionate about transforming designs into interactive web applications<br>
   💻 Proficient in HTML, CSS, Tailwind CSS, JavaScript, and ReactJS<br>
-  ⚙️ Experienced in backend development with Node.js, Express.js, and MongoDB<br>
+  ⚙️ Experienced in backend development with Node.js, Express.js, MongoDB, Firebase, Git, and GitHub<br>
   👩🏻‍🎓 Studied Computer Science & Engineering at Bangladesh University of Business & Technology, Bangladesh<br>
   🚀 Driven by a love for learning and innovation, constantly exploring new technologies<br>
   <br>
