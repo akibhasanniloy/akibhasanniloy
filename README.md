@@ -52,10 +52,10 @@
   <br>
   
    <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=akibhasanniloy&theme=react&border=61dafb&hide_border=true" alt="rizwanul-haque-roman" />
+     <a href="https://git.io/streak-stats">
+      <img align="left" width=390 src="https://streak-stats.demolab.com?user=akibhasanniloy&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="Akib Hasan Niloy" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/akibhasanniloy/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=akibhasanniloy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
