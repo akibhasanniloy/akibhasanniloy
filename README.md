@@ -10,15 +10,6 @@
 </h3>
 
 <br>
-
-<div align="center">
-  <a href="https://github.com/akibhasanniloy?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akibhasanniloy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/akibhasanniloy?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akibhasanniloy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
-  </a>
-</div>
 </div>
 
 ---
@@ -39,6 +30,25 @@ Firebase, Docker (Basic), CI/CD (Basic), AWS (Basic), GCP (Basic)
 VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
 
 ---
+## 📬 Connect With Me
+
+<div align="left">
+  <a href="mailto:akibhasanniloy2@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akibhasanniloy/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/akibhasanniloy?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/akibhasanniloy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akibhasanniloy?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akibhasanniloy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
+</div>
+---
 
 ## ⚒️ Languages · Frameworks · Tools
 
@@ -57,17 +67,6 @@ I’m passionate about creating intuitive and impactful applications — whether
 Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineering** positions.
 
 ---
-
-## 📬 Connect With Me
-
-<div align="left">
-  <a href="mailto:akibhasanniloy2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akibhasanniloy/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
-  </a>
-</div>
 
 ---
 
