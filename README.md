@@ -1,5 +1,5 @@
 <div>
-<h1 align="left">Hello! I'm Akib Hasan Niloy 👋</h1>
+<h1 align="left">Hello! I'm Akib Hasan Niloy</h1>
 
 <h3 align="left">
   I’m an aspiring software developer who loves building dynamic, responsive, and scalable web applications.  
@@ -32,7 +32,7 @@ VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
 ---
 ## 📬 Connect With Me
 
-<div align="left">
+<div align="center">
   <a href="mailto:akibhasanniloy2@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35"/>
   </a>
@@ -49,6 +49,11 @@ VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
   </a>
 </div>
 ---
+## 💡 Passion & Interests
+
+I’m passionate about creating intuitive and impactful applications — whether it's a polished frontend, a scalable backend, or a complete full-stack solution.  
+Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineering** positions.
+---
 
 ## ⚒️ Languages · Frameworks · Tools
 
@@ -58,15 +63,6 @@ VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
   <img src="https://skillicons.dev/icons?i=c,cpp,java" /><br>
   <img src="https://skillicons.dev/icons?i=git,vscode" /><br>
 </div>
-
----
-
-## 💡 Passion & Interests
-
-I’m passionate about creating intuitive and impactful applications — whether it's a polished frontend, a scalable backend, or a complete full-stack solution.  
-Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineering** positions.
-
----
 
 ---
 
