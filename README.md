@@ -12,8 +12,6 @@
 <br>
 </div>
 
----
-
 ## 👨‍💻 Core Skills
 
 ### **Programming**
@@ -29,7 +27,6 @@ Node.js, Express.js, MongoDB, SQL
 Firebase, Docker (Basic), CI/CD (Basic), AWS (Basic), GCP (Basic)  
 VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
 
----
 ## 📬 Connect With Me
 
 <div align="center">
@@ -48,7 +45,7 @@ VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akibhasanniloy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </div>
----
+
 ## 💡 Passion & Interests
 
 I’m passionate about creating intuitive and impactful applications — whether it's a polished frontend, a scalable backend, or a complete full-stack solution.  
@@ -63,8 +60,6 @@ Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineeri
   <img src="https://skillicons.dev/icons?i=c,cpp,java" /><br>
   <img src="https://skillicons.dev/icons?i=git,vscode" /><br>
 </div>
-
----
 
 ## ⚡ GitHub Stats
 
