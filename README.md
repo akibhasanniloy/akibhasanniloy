@@ -14,17 +14,22 @@
 
 ## 👨‍💻 Core Skills
 
-### **Programming**
+### 🧠 **Programming**
 JavaScript, TypeScript, Python, Java, C++, C
 
-### **Frontend Development**
+### 🎨 **Frontend Development**
 React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, REST APIs
 
-### **Backend & Databases**
+### 🛠️ **Backend & Databases**
 Node.js, Express.js, MongoDB, SQL
 
-### **Cloud, DevOps & Tools**
-Firebase, Docker (Basic), CI/CD (Basic), AWS (Basic), GCP (Basic)  
+### ☁️ **Cloud Platforms**
+Firebase, AWS (Basic), GCP (Basic)
+
+### 🔧 **DevOps**
+Docker (Basic), CI/CD (Basic)
+
+### 🧰 **Tools & Technologies**
 VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
 
 ## 📬 Connect With Me
