@@ -55,6 +55,8 @@ VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
 
 I’m passionate about creating intuitive and impactful applications — whether it's a polished frontend, a scalable backend, or a complete full-stack solution.  
 Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineering** positions.
+
+
 ---
 
 ## ⚒️ Languages · Frameworks · Tools
