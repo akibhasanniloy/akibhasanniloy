@@ -6,8 +6,6 @@
   <br><br>
   Currently pursuing my Bachelor's degree in Electronic Engineering in Germany. I enjoy solving real-world problems through clean code, practical development, and user first scalable design. My journey has   been shaped by building multiple Full-stack projects, collaborating with peers, and continuously improving my ability to turn ideas into functional, impactful applications.  
   </h4>
-
-<br>
 </div>
 
 ## 👨‍💻 Core Skills
