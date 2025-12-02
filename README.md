@@ -1,7 +1,7 @@
 <div>
-<h1 align="left">Hello! I'm Akib Hasan Niloy</h1>
+<h1 align="left">Hello! I'm Niloy</h1>
 
-<h3 align="left">
+<h4 align="left">
   I’m an aspiring software developer who loves building dynamic, responsive, and scalable web applications.  
   <br><br>
   Currently pursuing my Bachelor's in Electronic Engineering in Germany, I focus on writing clean code, building practical solutions, and creating user-first applications.
@@ -63,9 +63,9 @@ Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineeri
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nextjs" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,vite,firebase" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" /><br>
-  <img src="https://skillicons.dev/icons?i=git,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,nosql,firebase," /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,c#,go" /><br>
+  <img src="https://skillicons.dev/icons?i=git," /><br>
 </div>
 
 ## ⚡ GitHub Stats
