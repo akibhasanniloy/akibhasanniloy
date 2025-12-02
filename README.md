@@ -1,17 +1,17 @@
 <div>
 <h1 align="left">Hello! I'm Niloy</h1>
 
-<h4 align="left">
+<h3 align="left">
   Hello! I'm Niloy, an aspiring software developer who loves building dynamic, responsive, and scalable web applications.
   <br><br>
   Currently pursuing my Bachelor's degree in Electronic Engineering in Germany. I enjoy solving real-world problems through clean code, practical development, and user first scalable design. My journey has   been shaped by building multiple Full-stack projects, collaborating with peers, and continuously improving my ability to turn ideas into functional, impactful applications.  
-  </h4>
+  </h3>
 </div>
 
 ## 👨‍💻 Core Skills
 
 ### 🧠 **Programming**
-JavaScript, TypeScript, Python, Java, C++, C
+JavaScript, TypeScript, Python, Java, C++, C, Go
 
 ### 🎨 **Frontend Development**
 React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, REST APIs
@@ -20,13 +20,13 @@ React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, REST APIs
 Node.js, Express.js, MongoDB, SQL
 
 ### ☁️ **Cloud Platforms**
-Firebase, AWS (Basic), GCP (Basic)
+Firebase, AWS, cloudflare
 
 ### 🔧 **DevOps**
-Docker (Basic), CI/CD (Basic)
+Docker, CI/CD
 
 ### 🧰 **Tools & Technologies**
-VS Code, Git & GitHub, Figma, Jira, Remix IDE, Chrome DevTools
+VS Code, Git & GitHub, Figma, chrome DevTools
 
 ## 📬 Connect With Me
 
