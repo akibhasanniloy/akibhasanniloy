@@ -2,12 +2,10 @@
 <h1 align="left">Hello! I'm Niloy</h1>
 
 <h4 align="left">
-  I’m an aspiring software developer who loves building dynamic, responsive, and scalable web applications.  
-  <br><br>
-  Currently pursuing my Bachelor's in Electronic Engineering in Germany, I focus on writing clean code, building practical solutions, and creating user-first applications.
-  <br><br>
-  My journey has been shaped by hands-on project development, exploring modern technologies, and continuously improving my ability to turn ideas into functional, impactful applications.
-</h3>
+  Hello! I'm Niloy, an aspiring software developer who loves building dynamic, responsive, and scalable web applications.
+  <br>
+  Currently pursuing my Bachelor's degree in Electronic Engineering in Germany. I enjoy solving real-world problems through clean code, practical development, and user first scalable design. My journey has   been shaped by building multiple Full-stack projects, collaborating with peers, and continuously improving my ability to turn ideas into functional, impactful applications.  
+  </h4>
 
 <br>
 </div>
