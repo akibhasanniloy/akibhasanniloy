@@ -62,10 +62,10 @@ Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineeri
 ## ⚒️ Languages · Frameworks · Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,nextjs" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,sql,nosql,firebase," /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,c#,go" /><br>
-  <img src="https://skillicons.dev/icons?i=git," /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrapjavascript,ts,react,vue,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,redux,prisma,flask" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,cs,go,kotlin,dart,dotnet" /><br>
+  <img src="https://skillicons.dev/icons?i=git,tensorflow,matlab,docker,cloudflare,aws" /><br>
 </div>
 
 ## ⚡ GitHub Stats
