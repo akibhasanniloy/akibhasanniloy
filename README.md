@@ -8,10 +8,10 @@
   </p>
 </div>
 
-## 👨‍💻 Core Skills
+#Core Skills
 
-### 🧠 **Programming**
-JavaScript, TypeScript, Python, Java, C++, C, Go
+###**Programming**
+JavaScript, TypeScript, Python, Java, C++, C
 
 ### 🎨 **Frontend Development**
 React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap, Material UI, REST APIs
@@ -46,13 +46,6 @@ VS Code, Git & GitHub, Figma, chrome DevTools
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akibhasanniloy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </div>
-
-## 💡 Passion & Interests
-
-I’m passionate about creating intuitive and impactful applications — whether it's a polished frontend, a scalable backend, or a complete full-stack solution.  
-Open to developer roles in **Frontend**, **Full-Stack**, or **Software Engineering** positions.
-
-
 ---
 
 ## ⚒️ Languages · Frameworks · Tools
