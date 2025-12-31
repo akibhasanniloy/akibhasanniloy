@@ -48,9 +48,7 @@
   <img height="200"
        src="https://streak-stats.demolab.com?user=akibhasanniloy&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
-
-<br><br>
-
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akibhasanniloy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
 </div>
