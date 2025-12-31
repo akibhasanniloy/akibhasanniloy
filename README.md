@@ -1,5 +1,5 @@
 <div>
-<h1 align="left">Hello! I'm Niloy</h1>
+<h1 align="center">Hello! I'm Niloy</h1>
 
 <h3 align="left">
   Hello! I'm Niloy, an aspiring software developer who loves building dynamic, responsive, and scalable web applications.
