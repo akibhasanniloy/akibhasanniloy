@@ -8,7 +8,7 @@
   </p>
 </div>
 
-#Core Skills
+# Core Skills
 
 ###**Programming**
 JavaScript, TypeScript, Python, Java, C++, C
