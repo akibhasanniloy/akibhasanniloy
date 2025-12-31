@@ -3,7 +3,7 @@
 
 <p align="left">
   An aspiring software developer who loves building dynamic, responsive, and scalable web applications.
-  <br><br>
+  <br>
   Currently pursuing my Bachelor's degree in Electronic Engineering in Germany @Hochschule Hamm-Lippstadt. I enjoy solving real-world and build stuff with software and hardware.
   </p>
 </div>
