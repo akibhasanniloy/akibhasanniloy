@@ -12,9 +12,7 @@
 
 - Full-Stack Web Development
 - REST API Design & Integration
-- Database Design & Optimization
-- Cloud Deployment & Containerization
-- Problem Solving & System Thinking
+- Problem Solving
 
 # Connect With Me
 
