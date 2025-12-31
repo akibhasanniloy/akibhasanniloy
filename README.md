@@ -8,11 +8,15 @@
   </p>
 </div>
 
-# Core Skills
+# Core Competencies
 
-JavaScript, TypeScript, Python, Java, C++, C, Java, React, Next.js, HTML, CSS, REST APIs, Node.js, Express.js, MongoDB, SQL, Firebase, AWS, Docker
+- Full-Stack Web Development
+- REST API Design & Integration
+- Database Design & Optimization
+- Cloud Deployment & Containerization
+- Problem Solving & System Thinking
 
-## 📬 Connect With Me
+# Connect With Me
 
 <div align="center">
   <a href="mailto:akibhasanniloy2@gmail.com" target="_blank">
@@ -30,9 +34,8 @@ JavaScript, TypeScript, Python, Java, C++, C, Java, React, Next.js, HTML, CSS, R
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/akibhasanniloy?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
   </a>
 </div>
----
 
-## ⚒️ Languages · Frameworks · Tools
+# Languages · Frameworks · Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,ts,react,vue,nextjs,nodejs,express" /><br>
@@ -41,7 +44,7 @@ JavaScript, TypeScript, Python, Java, C++, C, Java, React, Next.js, HTML, CSS, R
   <img src="https://skillicons.dev/icons?i=git,tensorflow,matlab,docker,cloudflare,aws" /><br>
 </div>
 
-## ⚡ GitHub Stats
+# GitHub Stats
 
 <div align=center>
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibhasanniloy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
