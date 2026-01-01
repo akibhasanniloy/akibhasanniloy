@@ -10,7 +10,7 @@
 
 # Core Competencies
 
-- Full-Stack Web Development
+- MERN-Stack Web Development
 - REST API Design & Integration
 - Problem Solving
 
