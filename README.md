@@ -44,9 +44,4 @@
 
 # GitHub Stats
 
-<div align=center> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibhasanniloy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> <br><br> <img width=390 align="left" src="https://streak-stats.demolab.com?user=akibhasanniloy&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" /> <img width=390 align="right" src="https://github-readme-stats.vercel.app/api?username=akibhasanniloy&show_icons=true&show_privates=true&theme=react&border_color=61dafb&hide_border=true" /> </div>
- <img height="200"
-       src="https://streak-stats.demolab.com?user=akibhasanniloy&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" />
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akibhasanniloy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" />
-</div>
+<div align=center> <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akibhasanniloy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> <br><br> <img width=390 align="left" src="https://streak-stats.demolab.com?user=akibhasanniloy&theme=react&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" /> <img width=390 align="right" src="https://github-readme-stats.vercel.app/api?username=akibhasanniloy&show_icons=true&show_privates=true&theme=react&border_color=61dafb&hide_border=true" /> </div> <br><br><br><br><br><br><br><br> <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=akibhasanniloy&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> </div>
